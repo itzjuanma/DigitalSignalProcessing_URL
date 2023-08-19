@@ -1,0 +1,12 @@
+# Ignore project files
+
+# Ignore dependecies developed by user
+fourier.py
+aux_functions.py
+digital_filters.py
+
+# Ignore Checkpoints
+.ipynb_checkpoints
+
+# Ignore information for evaluation
+info_fourier.txt
